@@ -1,13 +1,30 @@
 ### Hi there 👋
-### Hello, folks! 
+
+<!--
 <img src="https://raw.githubusercontent.com/D-GopalKrishna/D-GopalKrishna/master/wave.gif" width="30px">
+-->
+
+
 
 
 [![DGK's github stats](https://github-readme-stats.vercel.app/api?username=d-gopalkrishna)](https://github.com/d-gopalkrishna/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<D-GopalKrishna>&theme=<THEME_NAME>" />
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<D-GopalKrishna>&theme=<THEME_NAME>" />
+-->
+
+
+
+
+![](https://img.shields.io/badge/<>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-<Django>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-<Flask>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<>-<>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 <!--
 **D-GopalKrishna/D-GopalKrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
