@@ -28,6 +28,13 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 
+<!--
+![Bash](https://img.shields.io/badge/-bash-05122A?style=flat&logo=bash)&nbsp;
+![Cpp](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+-->
+
+
 ###### Backend Development:
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
@@ -42,15 +49,36 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 ![MongoDB](https://img.shields.io/badge/mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 -->
 
+<!--
+###### Machine Learning: Deep learning, Big Data, and Cloud
+Tensorflow
+PyTorch
+Keras
+Scikit-learn - Core ML
+Data Analysis and Visualization
+Web Scraping
 
 
-###### Imp Tools:
+
+
+
+<!--
+###### Data Structures and Algorithms using Python and C++
+Hackerrank profile -- 
+CodeChef Profile --
+-->
+
+
+###### Other Tools:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![GCP](https://img.shields.io/badge/GCP-05122A?style=flat&logo=gcp)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
 
+<!--
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+-->
 
 ###### FrontEnd Development
 
