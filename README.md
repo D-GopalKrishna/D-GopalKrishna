@@ -13,8 +13,9 @@
 
 ### Hi there 👋
 
+<!--
 Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz, 
-
+-->
 
 
 
@@ -22,9 +23,10 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 
 #### **🛠 Skills and Tools:** 
 <br>
+
 ###### Programming Languages:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; (Primary)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 
 ###### Backend Development:
 
