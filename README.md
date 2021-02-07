@@ -1,6 +1,6 @@
-
+<!--
 # [D. Gopal Krishna](https://github.com/D-GopalKrishna)
-
+-->
 
 <a href="mailto:nikhil0223@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
@@ -10,9 +10,10 @@
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
+<!--
 ### Hi there 👋
-
+#### This is [D. Gopal Krishna](https://github.com/D-GopalKrishna)
+-->
 <!--
 Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz, 
 -->
@@ -22,7 +23,6 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 
 
 #### **🛠 Skills and Tools:** 
-<br>
 
 ###### Programming Languages:
 
@@ -73,9 +73,6 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 -->
-
-
-Other tools:
 
 
 <br>
