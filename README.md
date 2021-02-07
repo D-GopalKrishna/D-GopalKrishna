@@ -23,7 +23,7 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 **🛠 Skills and Tools:** 
 <br>
 Programming Languages:
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; (Primary)
+(https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; (Primary)
 
 Backend Development:
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
