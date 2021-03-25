@@ -2,7 +2,7 @@
 # [D. Gopal Krishna](https://github.com/D-GopalKrishna)
 -->
 
-<!--
+
 
 
 
@@ -116,7 +116,6 @@ CodeChef Profile --
 
 <img src="https://github-readme-stats.vercel.app/api?username=d-gopalkrishna&show_icons=true&theme=algolia" alt=" " />
 
--->
 
 <!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
