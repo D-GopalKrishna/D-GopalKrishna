@@ -2,6 +2,10 @@
 # [D. Gopal Krishna](https://github.com/D-GopalKrishna)
 -->
 
+<!--
+
+
+
 <a href="mailto:nikhil0223@gmail.com" style="text-decoration:none" target="_blank">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -112,7 +116,7 @@ CodeChef Profile --
 
 <img src="https://github-readme-stats.vercel.app/api?username=d-gopalkrishna&show_icons=true&theme=algolia" alt=" " />
 
-
+-->
 
 <!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
