@@ -29,10 +29,11 @@ Machine learning, Web Scraping, Scikit learn, Data Analysis and Viz,
 #### **🛠 Skills and Tools:** 
 
 ###### Programming Languages:
+<!-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp; -->
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![Bash](https://img.shields.io/badge/-bash-05122A?style=flat&logo=bash)&nbsp;
-![Cpp](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![Bash](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <!--
