@@ -3,6 +3,7 @@
 -->
 
 
+![abc](https://user-images.githubusercontent.com/59233227/205642892-5a0cdec9-ec0f-41f0-81cf-0711aa04996b.png)
 
 
 
@@ -116,8 +117,8 @@ CodeChef Profile --
 [![DGK's github stats](https://github-readme-stats.vercel.app/api?username=d-gopalkrishna)](https://github.com/d-gopalkrishna/github-readme-stats)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=d-gopalkrishna&show_icons=true&theme=algolia" alt=" " />
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=d-gopalkrishna&show_icons=true&theme=algolia" alt=" " />
+ -->
 
 <!--
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
