@@ -2,8 +2,7 @@
 # [D. Gopal Krishna](https://github.com/D-GopalKrishna)
 -->
 
-
-![abc](https://user-images.githubusercontent.com/59233227/205642892-5a0cdec9-ec0f-41f0-81cf-0711aa04996b.png)
+![abc](https://user-images.githubusercontent.com/59233227/205643291-43ea2921-03cd-405c-ad14-13adb9d5739b.png)
 
 
 
