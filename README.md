@@ -2,9 +2,6 @@
 # [D. Gopal Krishna](https://github.com/D-GopalKrishna)
 -->
 
-![abc](https://user-images.githubusercontent.com/59233227/205643291-43ea2921-03cd-405c-ad14-13adb9d5739b.png)
-
-
 
 <a href="mailto:nikhil0223@gmail.com" style="text-decoration:none" target="_blank">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
