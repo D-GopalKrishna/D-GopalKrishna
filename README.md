@@ -10,5 +10,4 @@
 <br>
 <br>
 
-My website - dgopalkrishna.com
-Earlier one - https://d-gopalkrishna.github.io/
+My website - https://dgopalkrishna.com/
