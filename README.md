@@ -10,6 +10,6 @@
 <br>
 <br>
 
-My website - https://dgopalkrishna.com/
+My website - [d.gopalkrishna](https://dgopalkrishna.com/)
 <br>
-Building - https://www.focusanalyze.com
+Building - [FocusAnalyze](https://www.focusanalyze.com)
