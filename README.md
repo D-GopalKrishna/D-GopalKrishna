@@ -1,4 +1,4 @@
-<a href="mailto:nikhil0223@gmail.com" style="text-decoration:none" target="_blank">
+<a href="mailto:gopal010223@gmail.com" style="text-decoration:none" target="_blank">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
